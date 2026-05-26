@@ -394,8 +394,7 @@ Codex、Claude Code 这类 Agent 可以读取本地项目、理解工程结构�
 本仓库保留了整理过程中的文档，方便后续继续修改：
 
 - [原始口述整理](docs/original-notes.md)
-- [经验贴草稿](docs/experience-draft.md)
-- [PPT 大纲](docs/ppt-outline.md)
+
 
 ## 许可
 
